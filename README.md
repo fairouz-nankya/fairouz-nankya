@@ -12,5 +12,5 @@ MSc Data Science Graduate from Loughborough University, interested in Data Analy
 Python · Pandas · Scikit-learn · Plotly · Matplotlib · Streamlit · OpenAI · Jupyter · Git
 
 ## Get in Touch
-[LinkedIn](www.linkedin.com/in/fairouz-nankya-b672aa26b) · Project code available on request
+[LinkedIn](https://www.linkedin.com/in/fairouz-nankya-b672aa26b) · Project code available on request
 
