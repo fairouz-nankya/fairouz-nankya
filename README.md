@@ -5,6 +5,9 @@ MSc Data Science Graduate from Loughborough University, interested in Data Analy
 - 🤖 **AI-generated student feedback (MSc dissertation):** extended a Streamlit app that uses the OpenAI API to write personalised feedback. I added question tagging by Knowledge, Understanding and Skill (KUS), redesigned the feedback prompts, added a chart comparing each student with their cohort, and ran a student evaluation that shaped a further round of prompt refinements.
 - 📊 **Consumer research for a sleep-tech startup (graduate consultancy):** worked in a team of five to design a consumer survey, and led the data analysis in Python to assess demand for a new product concept.
 
+## Featured Projects
+- [**AI Feedback Generation with KUS Tagging**](https://github.com/fairouz-nankya/kus-feedback-generation-case-study): case study of my MSc dissertation (Streamlit, OpenAI API, prompt design, user evaluation)
+
 ## Tools
 Python · Pandas · Scikit-learn · Plotly · Matplotlib · Streamlit · OpenAI · Jupyter · Git
 
